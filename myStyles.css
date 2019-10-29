@@ -1,65 +1,9 @@
-body, section{
-
-	margin:0;
-	border:0;
-	padding:0;
-}
-
 body {
-	background-color: #A3620A;
+	background-color: #E7FBFB;
 }
 
-nav.utilityBar {
-	background-color: #161616;
-		padding-bottom: 10px;
-}
-
-img.logo {
-	width: 35%;
-}
-
-section.navButtons {
+nav {
+	font-size: 4em;
+	color: #010B5B;
 	text-align: center;
-
-}
-nav.center {
-	background-color: #FFFFFF;
-	text-align: center;
-	margin-left: auto;
-	margin-right: auto;
-	padding-left: 200px;
-	padding-right: 200px;
-	width: 40%;
-}
-
-
-nav.container {
-	background-color: #A3620A;
-}
-a.navButtons{
-	color: white;
-	padding-left: 50px;
-	padding-right: 50px;
-	font-family: Arial;
-	padding-top: 1px;
-	padding-bottom: 1px;
-}
-a.navButtons:link {
-	color: white;
-	text-decoration: none;
-	font-weight: normal;
-}
-
-a.navbuttons:visited {
-	color: white;
-	text-decoration: none;
-	font-weight: normal;
-}
-
-a.navButtons:hover {
-	text-decoration: none;
-	width: 163px;
-	font-weight: normal;
-	border-top: 3px solid orange;
-	border-bottom: 3px solid orange;
 }
